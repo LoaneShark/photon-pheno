@@ -1,0 +1,88 @@
+{
+    "urls": {
+        "BRIGHT": "https://bright.ciera.northwestern.edu/"
+    },
+    "type_GRB": "short",
+    "RA_host": "03:10:22.2",
+    "Dec_host": "13:59:48.74",
+    "tel_pos": "HST/WFC3",
+    "tel_pos_ref": "BRIGHT",
+    "host_morphology": null,
+    "host_SF": null,
+    "T90": 0.28,
+    "fluence": 17,
+    "fluence_err_upper": 2,
+    "fluence_err_lower": -2,
+    "xray": "yes",
+    "opt": "yes",
+    "radio": "no",
+    "offset": 0.48,
+    "offset_err_upper": 0.13,
+    "offset_err_lower": -0.13,
+    "offset_kpc": 3.90,
+    "offset_kpc_err_upper": 1.06,
+    "offset_kpc_err_lower": -1.06,
+    "offset_ref": "BRIGHT", 
+    "Pcc": 0.115,
+    "Pcc_ref": "BRIGHT",
+    "frac_flux": null,
+    "eff_rad": null,
+    "hnorm_offset": 1.41,
+    "hnorm_offset_err": 0.38,
+    "halflightrad": null,
+    "z": null,
+    "z_err_upper": null,
+    "z_err_lower": null,
+    "z_ref": null,
+    "mass": null,
+    "mass_err_upper": null,
+    "mass_err_lower": null,
+    "age": null,
+    "age_err_upper": null,
+    "age_err_lower": null,
+    "logzsol": null,
+    "logzsol_err_upper": null,
+    "logzsol_err_lower": null,
+    "gas_logz": null,
+    "gas_logz_err_upper": null,
+    "gas_logz_err_lower": null,
+    "SFR": null,
+    "SFR_err_upper": null,
+    "SFR_err_lower": null,
+    "dust2": null,
+    "dust2_err_upper": null,
+    "dust2_err_lower": null,
+    "dust1": null,
+    "dust1_err_upper": null,
+    "dust1_err_lower": null,
+    "phot": [
+        27.471
+    ],
+    "phot_err": [
+        0.23
+    ],
+    "filters": [
+        "F110W"
+    ],
+    "telescopes": [
+        "HST/WFC3"
+    ],
+    "phot_refs": [
+        "BRIGHT"
+    ],
+    "spec": null,
+    "spec_tel": null,
+    "spec_ref": null,
+    "mod_phot": null,
+    "mod_spec": null,
+    "comments": "Unknown Redshift",
+    "FITS": [
+        "130912A_F110W.fits"
+    ],
+    "corner": null,
+    "SED": null,
+    "color": "130912A_color.png",
+    "H5": null,
+    "afterglow": null,
+    "GCN": "https://gcn.gsfc.nasa.gov/other/130912A.gcn3"
+}

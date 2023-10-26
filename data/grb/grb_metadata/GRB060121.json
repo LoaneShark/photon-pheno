@@ -1,0 +1,89 @@
+{
+    "urls": {
+        "Fong 2010": "https://ui.adsabs.harvard.edu/abs/2010ApJ...708....9F/abstract",
+        "BRIGHT": "https://bright.ciera.northwestern.edu/"
+    },
+    "type_GRB": "short",
+    "RA_host": "09:09:52.026",
+    "Dec_host": "+45:39:45.538",
+    "tel_pos": "HST/ACS",
+    "tel_pos_ref": "Fong 2010",
+    "host_morphology": null,
+    "host_SF": null,
+    "T90": 1.97,
+    "fluence": null,
+    "fluence_err_upper": null,
+    "fluence_err_lower": null,
+    "xray": null,
+    "opt": null,
+    "radio": null,
+    "offset": 0.119,
+    "offset_err_upper": 0.046,
+    "offset_err_lower": -0.046,
+    "offset_kpc": 0.97,
+    "offset_kpc_err_upper": 0.37,
+    "offset_kpc_err_lower": -0.37,
+    "offset_ref": "Fong 2010",
+    "Pcc": 0.002,
+    "Pcc_ref": "BRIGHT",
+    "frac_flux": null,
+    "eff_rad": null,
+    "hnorm_offset": 0.18,
+    "hnorm_offset_err": 0.069,
+    "halflightrad": null,
+    "z": null,
+    "z_err_upper": null,
+    "z_err_lower": null,
+    "z_ref": null,
+    "mass": null,
+    "mass_err_upper": null,
+    "mass_err_lower": null,
+    "age": null,
+    "age_err_upper": null,
+    "age_err_lower": null,
+    "logzsol": null,
+    "logzsol_err_upper": null,
+    "logzsol_err_lower": null,
+    "gas_logz": null,
+    "gas_logz_err_upper": null,
+    "gas_logz_err_lower": null,
+    "SFR": null,
+    "SFR_err_upper": null,
+    "SFR_err_lower": null,
+    "dust2": null,
+    "dust2_err_upper": null,
+    "dust2_err_lower": null,
+    "dust1": null,
+    "dust1_err_upper": null,
+    "dust1_err_lower": null,
+    "phot": [
+        26.27
+    ],
+    "phot_err": [
+        1
+    ],
+    "filters": [
+        "F606W"
+    ],
+    "telescopes": [
+        "HST/ACS"
+    ],
+    "phot_refs": [
+        "Fong 2010"
+    ],
+    "spec": null,
+    "spec_tel": null,
+    "spec_ref": null,
+    "mod_phot": null,
+    "mod_spec": null,
+    "comments": "Unknown Redshift",
+    "FITS": [
+        "060121_F606W.fits"
+    ],
+    "corner": null,
+    "SED": null,
+    "color": null,
+    "H5": null,
+    "afterglow": null,
+    "GCN": "https://gcn.gsfc.nasa.gov/other/060121.gcn3"
+}

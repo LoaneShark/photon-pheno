@@ -1,0 +1,88 @@
+{
+    "urls": {
+        "Fong 2013": "https://ui.adsabs.harvard.edu/abs/2013ApJ...776...18F/abstract"
+    },
+    "type_GRB": "short",
+    "RA_host": "16:07:07.596",
+    "Dec_host": "-31:33:22.54",
+    "tel_pos": "HST/WFC3",
+    "tel_pos_ref": "Fong 2013",
+    "host_morphology": null,
+    "host_SF": null,
+    "T90": 0.54,
+    "fluence": 7.5,
+    "fluence_err_upper": 1.3,
+    "fluence_err_lower": -1.3,
+    "xray": "yes",
+    "opt": "yes",
+    "radio": "no",
+    "offset": 0.43,
+    "offset_err_upper": 0.03,
+    "offset_err_lower": -0.03,
+    "offset_kpc": 3.49,
+    "offset_kpc_err_upper": 0.24,
+    "offset_kpc_err_lower": -0.24,
+    "offset_ref": "Fong 2013",
+    "Pcc": 0.007,
+    "Pcc_ref": "Fong 2013",
+    "frac_flux": null,
+    "eff_rad": null,
+    "hnorm_offset": 1.19,
+    "hnorm_offset_err": 0.083,
+    "halflightrad": null,
+    "z": null,
+    "z_err_upper": null,
+    "z_err_lower": null,
+    "z_ref": null,
+    "mass": null,
+    "mass_err_upper": null,
+    "mass_err_lower": null,
+    "age": null,
+    "age_err_upper": null,
+    "age_err_lower": null,
+    "logzsol": null,
+    "logzsol_err_upper": null,
+    "logzsol_err_lower": null,
+    "gas_logz": null,
+    "gas_logz_err_upper": null,
+    "gas_logz_err_lower": null,
+    "SFR": null,
+    "SFR_err_upper": null,
+    "SFR_err_lower": null,
+    "dust2": null,
+    "dust2_err_upper": null,
+    "dust2_err_lower": null,
+    "dust1": null,
+    "dust1_err_upper": null,
+    "dust1_err_lower": null,
+    "phot": [
+        25.292
+    ],
+    "phot_err": [
+        0.1
+    ],
+    "filters": [
+        "F160W"
+    ],
+    "telescopes": [
+        "HST/WFC3"
+    ],
+    "phot_refs": [
+        "Fong 2013"
+    ],
+    "spec": null,
+    "spec_tel": null,
+    "spec_ref": null,
+    "mod_phot": null,
+    "mod_spec": null,
+    "comments": "Unknown Redshift",
+    "FITS": [
+        null
+    ],
+    "corner": null,
+    "SED": null,
+    "color": "090305A_color.png",
+    "H5": null,
+    "afterglow": null,
+    "GCN": "https://gcn.gsfc.nasa.gov/other/090305A.gcn3"
+}
